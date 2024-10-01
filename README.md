@@ -19,7 +19,8 @@ In light of this, I have authored a comprehensive survey paper titled **Perineur
 
 ## Repository contents
 
-1. 
+1. [Compiled PDFLaTeX](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/v1_PNI_Survey_Hayagreev_Jeyandran_PDF.pdf)
+2. [LaTeX source, bibliography, and TeX auxilliaries](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/v1_PNI_Survey_Hayagreev_Jeyandran_Source.zip)
 
 *** 
 
