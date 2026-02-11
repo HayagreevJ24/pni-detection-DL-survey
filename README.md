@@ -9,21 +9,22 @@
 
 In light of this, I have authored a comprehensive survey paper titled **Perineural Invasion Detection Using Deep Learning: A Survey**, investigating these areas:
 
-1.   Introduction and Molecular mechanisms of PNI: Reason behind a deep learning implementation. 
-2. Summary of approaches - Segmentation, Detection, and Classification (This field contains just 6 articles to date. The paper thoroughly reviews them). 
-3. Issues governing dataset access dimensionality, and sources of data. 
-4. Pre-processing of WSIs. 
-5. Types of deep learning architectures in use and the intuition behind them, training details.
-6.  Evaluation metrics, a comparison between the 6 articles' performances, and error analysis on the dev set.
-7. Areas of future research. 
+1. Introduction and Molecular mechanisms of PNI: Reason behind a deep learning implementation.
+2. Literature Review Methodology
+3. Summary of approaches - Segmentation, Detection, and Classification (This field contains just 6 articles to date. The paper thoroughly reviews them). 
+4. Issues governing dataset access dimensionality and sources of data. 
+5. Pre-processing of WSIs. 
+6. Types of deep learning architectures in use and the intuition behind them, training details.
+7.  Evaluation metrics, a comparison between the 6 articles' performances, and error analysis on the dev set.
+8. Areas of future research. 
 
 ## Repository contents
 
-1. [Compiled PDFLaTeX](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/v1_PNI_Survey_Hayagreev_Jeyandran_PDF.pdf)
-2. [LaTeX source, bibliography, and TeX auxilliaries](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/v1_PNI_Survey_Hayagreev_Jeyandran_Source.zip)
+1. [Compiled PDFLaTeX](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/PNI_Revised_Manuscript.pdf)
+2. [LaTeX source, bibliography, and TeX auxilliaries](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/PNI_revisions_source.zip)
 
 *** 
 
-> Publication note: This work has been submitted to arXiv for self-publication.<br>
+> Publication note: This work has been submitted to Springer Nature's SN Computer Science Journal for Publication. It was revised on **31st Jan 2026**.
 > Presentation note: To be presented at HCG's Tumor board, dated **8th October 2024, Tuesday**.
 This repository is licensed under [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/). Please check [LICENSE](https://github.com/HayagreevJ24/pni-detection-DL-survey/blob/main/LICENSE) for more details. 
